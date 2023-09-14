@@ -1,0 +1,17 @@
+<dependencies>
+  <compile
+      roots="/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner@@:unityLibrary::release">
+    <dependency
+        name="/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner@@:unityLibrary::release"
+        simpleName="AndroidProjectRunner:unityLibrary"/>
+  </compile>
+  <package
+      roots="/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner@@:unityLibrary::release,__local_aars__:/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/libs/unity-classes.jar:unspecified@jar">
+    <dependency
+        name="/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner@@:unityLibrary::release"
+        simpleName="AndroidProjectRunner:unityLibrary"/>
+    <dependency
+        name="__local_aars__:/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/libs/unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/libs/unity-classes.jar"/>
+  </package>
+</dependencies>

@@ -1,0 +1,135 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk android:minSdkVersion="22" />
+7
+8    <uses-feature android:glEsVersion="0x00030000" />
+8-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:22:3-52
+8-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:22:17-49
+9    <uses-feature
+9-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:23:3-91
+10        android:name="android.hardware.vulkan.version"
+10-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:23:17-63
+11        android:required="false" />
+11-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:23:64-88
+12
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:24:3-65
+13-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:24:20-62
+14
+15    <uses-feature
+15-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:25:3-88
+16        android:name="android.hardware.touchscreen"
+16-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:25:17-60
+17        android:required="false" />
+17-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:25:61-85
+18    <uses-feature
+18-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:26:3-99
+19        android:name="android.hardware.touchscreen.multitouch"
+19-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:26:17-71
+20        android:required="false" />
+20-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:26:72-96
+21    <uses-feature
+21-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:27:3-108
+22        android:name="android.hardware.touchscreen.multitouch.distinct"
+22-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:27:17-80
+23        android:required="false" />
+23-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:27:81-105
+24
+25    <application android:extractNativeLibs="true" >
+25-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:4:3-21:17
+25-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:4:16-48
+26        <activity
+26-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:5:5-14:16
+27            android:name="com.unity3d.player.UnityPlayerActivity"
+27-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:5:15-68
+28            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+28-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:5:180-361
+29            android:hardwareAccelerated="false"
+29-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:5:396-431
+30            android:launchMode="singleTask"
+30-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:5:148-179
+31            android:resizeableActivity="true"
+31-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:5:362-395
+32            android:screenOrientation="portrait"
+32-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:5:111-147
+33            android:theme="@style/UnityThemeSelector" >
+33-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:5:69-110
+34            <intent-filter>
+34-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:6:7-9:23
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:7:9-61
+35-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:7:17-58
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:8:9-69
+37-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:8:19-66
+38            </intent-filter>
+39
+40            <meta-data
+40-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:10:7-82
+41                android:name="unityplayer.UnityActivity"
+41-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:10:18-58
+42                android:value="true" />
+42-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:10:59-79
+43            <meta-data
+43-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:11:7-130
+44                android:name="WindowManagerPreference:FreeformWindowSize"
+44-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:11:18-75
+45                android:value="@string/FreeformWindowSize_maximize" />
+45-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:11:76-127
+46            <meta-data
+46-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:12:7-144
+47                android:name="WindowManagerPreference:FreeformWindowOrientation"
+47-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:12:18-82
+48                android:value="@string/FreeformWindowOrientation_portrait" />
+48-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:12:83-141
+49            <meta-data
+49-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:13:7-78
+50                android:name="android.notch_support"
+50-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:13:18-54
+51                android:value="true" />
+51-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:13:55-75
+52        </activity>
+53
+54        <meta-data
+54-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:15:5-69
+55            android:name="unity.splash-mode"
+55-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:15:16-48
+56            android:value="0" />
+56-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:15:49-66
+57        <meta-data
+57-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:16:5-74
+58            android:name="unity.splash-enable"
+58-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:16:16-50
+59            android:value="True" />
+59-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:16:51-71
+60        <meta-data
+60-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:17:5-78
+61            android:name="unity.launch-fullscreen"
+61-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:17:16-54
+62            android:value="True" />
+62-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:17:55-75
+63        <meta-data
+63-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:18:5-83
+64            android:name="unity.allow-resizable-window"
+64-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:18:16-59
+65            android:value="True" />
+65-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:18:60-80
+66        <meta-data
+66-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:19:5-81
+67            android:name="notch.config"
+67-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:19:16-43
+68            android:value="portrait|landscape" />
+68-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:19:44-78
+69        <meta-data
+69-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:20:5-84
+70            android:name="unity.auto-report-fully-drawn"
+70-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:20:16-60
+71            android:value="true" />
+71-->/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/src/main/AndroidManifest.xml:20:61-81
+72    </application>
+73
+74</manifest>

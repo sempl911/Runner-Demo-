@@ -1,0 +1,7 @@
+#Thu Sep 14 19:21:49 EEST 2023
+base.0=/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+base.1=/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/build/intermediates/global_synthetics_dex/release/classes.dex
+path.0=classes.dex
+path.1=classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

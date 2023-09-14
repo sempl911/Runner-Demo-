@@ -1,0 +1,7 @@
+#Thu Sep 14 19:14:45 EEST 2023
+base.0=/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/2/classes.dex
+path.0=0/classes.dex
+path.1=2/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

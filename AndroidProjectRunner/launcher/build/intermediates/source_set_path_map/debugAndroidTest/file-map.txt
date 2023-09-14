@@ -1,0 +1,4 @@
+com.UnityTechnologies.com.unity.template.urpblank.test.launcher-androidTest-0 /Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/build/generated/res/resValues/androidTest/debug
+com.UnityTechnologies.com.unity.template.urpblank.test.launcher-mergeDebugAndroidTestResources-1 /Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.UnityTechnologies.com.unity.template.urpblank.test.launcher-mergeDebugAndroidTestResources-2 /Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.UnityTechnologies.com.unity.template.urpblank.test.launcher-merged_res-3 /Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/build/intermediates/merged_res/debugAndroidTest

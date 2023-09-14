@@ -1,0 +1,8 @@
+com.UnityTechnologies.com.unity.template.urpblank.launcher-pngs-0 /Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/build/generated/res/pngs/debug
+com.UnityTechnologies.com.unity.template.urpblank.launcher-resValues-1 /Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/build/generated/res/resValues/debug
+com.UnityTechnologies.com.unity.template.urpblank.launcher-mergeDebugResources-2 /Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.UnityTechnologies.com.unity.template.urpblank.launcher-mergeDebugResources-3 /Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.UnityTechnologies.com.unity.template.urpblank.launcher-merged_res-4 /Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/build/intermediates/merged_res/debug
+com.UnityTechnologies.com.unity.template.urpblank.launcher-debug-5 /Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/src/debug/res
+com.UnityTechnologies.com.unity.template.urpblank.launcher-main-6 /Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/launcher/src/main/res
+com.UnityTechnologies.com.unity.template.urpblank.launcher-packaged_res-7 /Users/aleksejkustov/Documents/Unity_TZ_24Play/TZ_24Play/AndroidProjectRunner/unityLibrary/build/intermediates/packaged_res/debug
