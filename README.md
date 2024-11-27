@@ -26,3 +26,7 @@
 
 <h2>🌟 Purpose:</h2>
 <p>This project serves as a test task for a junior developer position, showcasing skills in game development and procedural content generation.</p>
+
+### Gameplay
+
+<img src="RunnerTitle.png" alt="Player Screen" width="50%"/>
